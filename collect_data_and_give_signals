@@ -1,0 +1,5 @@
+def give_signals_to_player():
+  players = self.get_players()
+  ...
+  
+  
